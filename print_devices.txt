@@ -1,0 +1,3 @@
+Laptop{displaySize=14, matrixType=IPS}
+Laptop{displaySize=14, matrixType=IPS}
+Laptop{displaySize=14, matrixType=IPS}
